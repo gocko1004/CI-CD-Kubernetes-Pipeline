@@ -34,7 +34,7 @@ jobs:
           docker build -t k8s:latest .
           docker tag k8s:latest goce1004/k8s:latest
           docker login -u ${{ secrets.DOCKERHUB_USERNAME }} -p ${{ secrets.DOCKERHUB_TOKEN }}
-          docker push *goce1004*/k8s:latest
+          docker push goce1004/k8s:latest
         env:
           DOCKER_CLI_ACI: 1
 
