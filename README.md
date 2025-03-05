@@ -4,7 +4,7 @@
 ---
 
 ## **Overview**  
-This project demonstrates a **robust CI/CD pipeline** designed specifically for Kubernetes-based applications. It integrates **security-first principles**, **code quality assurance**, **runtime monitoring**, and **infrastructure automation** to deliver scalable, containerized workloads efficiently. By leveraging modern DevOps tools and best practices, this pipeline ensures seamless application delivery while maintaining high standards of security and reliability.
+This project demonstrates a **robust CI/CD pipeline** designed specifically for Kubernetes-based applications. It integrates **security-first principles**, **code quality assurance**, **runtime monitoring**, and **infrastructure automation** to deliver scalable, containerized workloads efficiently. By leveraging modern DevSecOps tools and best practices, this pipeline ensures seamless application delivery while maintaining high standards of security and reliability.
 
 ---
 
